@@ -1,0 +1,34 @@
+{
+  "name": "Time-App",
+  "version": "1.0.0",
+  "description": "======== == ==    == =======    ==    == ===  === ==    ==    == == == == =====    ==    == ==    == ==     ==    ==\t==    == =======",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chart.js": "^2.7.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
+    "firebaseui": "^3.1.1",
+    "mysql2": "^1.5.3",
+    "path": "^0.12.7",
+    "sequelize": "^4.38.0",
+    "session": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethmarini/Time-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethmarini/Time-App/issues"
+  },
+  "homepage": "https://github.com/sethmarini/Time-App#readme"
+}
